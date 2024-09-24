@@ -1,4 +1,4 @@
-# 🚚 Jetton Implementation Template by Howard
+$&& 🚚 Jetton Implementation Template by Howard
 
 This project is targeting to provide a template for the Jetton Implementation. It's a good start point for the developer to start the Jetton Implementation.
 
@@ -9,13 +9,13 @@ yarn
 yarn build # To build & compile the contract
 yarn test # To run test cases for the contract
 yarn deploy # To deploy contract
----
+EQCQtjy_zyf-LcRLdukN-8TSUPrELHunnlcx4IYQumCl4jT5
 yarn read # To read contract data from the blockchain
 yarn d1 # (Optional) To Transfer the Jetton Token to the new account
 yarn d2 # (Optional) To generate the Transfer URL to let the new account to transfer the Jetton Token to the other account
 ```
 
-🔍 Detail can be found in `package.json` LOL
+🔍 Detail can be found in `package.json` LOL https://github.com/TonBitSec/ton-ctf-checkin.git
 
 # ✨ Important knowledge points
 
